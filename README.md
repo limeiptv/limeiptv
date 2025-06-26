@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**limeiptv/limeiptv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Lime IPTV – #1 Premium Streaming Service
 
-Here are some ideas to get you started:
+Get Lime IPTV – The #1 premium IPTV service with 10,000+ HD channels, live sports, movies & series.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Netflix, HBO, Amazon Prime, Disney+ included.
+
+Enjoy ultra-fast, buffer-free streaming on any device!
+
+
+
+### How do i get Lime IPTV?
+
+Find more information on official website: https://www.limeiptv.to/
+
+
+### How do i setup IPTV on my device?
+
+Find step-by-step guides how to setup IPTV on any device on website: https://iptvhelpcenter.com/
+
